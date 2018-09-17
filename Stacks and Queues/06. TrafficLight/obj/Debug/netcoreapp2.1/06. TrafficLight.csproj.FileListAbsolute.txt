@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\bin\Debug\netcoreapp2.1\06. TrafficLight.deps.json
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\bin\Debug\netcoreapp2.1\06. TrafficLight.runtimeconfig.json
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\bin\Debug\netcoreapp2.1\06. TrafficLight.runtimeconfig.dev.json
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\bin\Debug\netcoreapp2.1\06. TrafficLight.dll
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\bin\Debug\netcoreapp2.1\06. TrafficLight.pdb
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\obj\Debug\netcoreapp2.1\06. TrafficLight.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\obj\Debug\netcoreapp2.1\06. TrafficLight.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\obj\Debug\netcoreapp2.1\06. TrafficLight.AssemblyInfo.cs
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\obj\Debug\netcoreapp2.1\06. TrafficLight.dll
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\06. TrafficLight\obj\Debug\netcoreapp2.1\06. TrafficLight.pdb

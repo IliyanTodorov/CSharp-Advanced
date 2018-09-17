@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\bin\Debug\netcoreapp2.1\02. SimpleCalculator.deps.json
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\bin\Debug\netcoreapp2.1\02. SimpleCalculator.runtimeconfig.json
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\bin\Debug\netcoreapp2.1\02. SimpleCalculator.runtimeconfig.dev.json
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\bin\Debug\netcoreapp2.1\02. SimpleCalculator.dll
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\bin\Debug\netcoreapp2.1\02. SimpleCalculator.pdb
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\obj\Debug\netcoreapp2.1\02. SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\obj\Debug\netcoreapp2.1\02. SimpleCalculator.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\obj\Debug\netcoreapp2.1\02. SimpleCalculator.AssemblyInfo.cs
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\obj\Debug\netcoreapp2.1\02. SimpleCalculator.dll
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\obj\Debug\netcoreapp2.1\02. SimpleCalculator.pdb
+D:\Projects\SoftUni\C# Advanced\Stacks and Queues\02. SimpleCalculator\obj\Debug\netcoreapp2.1\02. SimpleCalculator.csprojAssemblyReference.cache
