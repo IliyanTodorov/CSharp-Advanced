@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\bin\Debug\netcoreapp2.1\07. BalancedParenthesis.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\bin\Debug\netcoreapp2.1\07. BalancedParenthesis.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\bin\Debug\netcoreapp2.1\07. BalancedParenthesis.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\bin\Debug\netcoreapp2.1\07. BalancedParenthesis.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\bin\Debug\netcoreapp2.1\07. BalancedParenthesis.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\obj\Debug\netcoreapp2.1\07. BalancedParenthesis.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\obj\Debug\netcoreapp2.1\07. BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\obj\Debug\netcoreapp2.1\07. BalancedParenthesis.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\obj\Debug\netcoreapp2.1\07. BalancedParenthesis.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\obj\Debug\netcoreapp2.1\07. BalancedParenthesis.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\07. BalancedParenthesis\obj\Debug\netcoreapp2.1\07. BalancedParenthesis.pdb

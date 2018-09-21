@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\bin\Debug\netcoreapp2.1\07. GroupNumbers.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\bin\Debug\netcoreapp2.1\07. GroupNumbers.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\bin\Debug\netcoreapp2.1\07. GroupNumbers.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\bin\Debug\netcoreapp2.1\07. GroupNumbers.dll
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\bin\Debug\netcoreapp2.1\07. GroupNumbers.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\obj\Debug\netcoreapp2.1\07. GroupNumbers.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\obj\Debug\netcoreapp2.1\07. GroupNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\obj\Debug\netcoreapp2.1\07. GroupNumbers.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\obj\Debug\netcoreapp2.1\07. GroupNumbers.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\obj\Debug\netcoreapp2.1\07. GroupNumbers.dll
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\07. GroupNumbers\obj\Debug\netcoreapp2.1\07. GroupNumbers.pdb

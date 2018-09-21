@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. SimpleTextEditor.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. SimpleTextEditor.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. SimpleTextEditor.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. SimpleTextEditor.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. SimpleTextEditor.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. SimpleTextEditor.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. SimpleTextEditor.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. SimpleTextEditor.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. SimpleTextEditor.csprojAssemblyReference.cache

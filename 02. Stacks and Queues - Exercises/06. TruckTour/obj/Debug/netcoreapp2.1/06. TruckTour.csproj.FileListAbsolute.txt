@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\bin\Debug\netcoreapp2.1\06. TruckTour.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\bin\Debug\netcoreapp2.1\06. TruckTour.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\bin\Debug\netcoreapp2.1\06. TruckTour.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\bin\Debug\netcoreapp2.1\06. TruckTour.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\bin\Debug\netcoreapp2.1\06. TruckTour.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\obj\Debug\netcoreapp2.1\06. TruckTour.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\obj\Debug\netcoreapp2.1\06. TruckTour.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\obj\Debug\netcoreapp2.1\06. TruckTour.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\obj\Debug\netcoreapp2.1\06. TruckTour.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\obj\Debug\netcoreapp2.1\06. TruckTour.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\06. TruckTour\obj\Debug\netcoreapp2.1\06. TruckTour.pdb

@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\bin\Debug\netcoreapp2.1\03. MaximumElement.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\bin\Debug\netcoreapp2.1\03. MaximumElement.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\bin\Debug\netcoreapp2.1\03. MaximumElement.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\bin\Debug\netcoreapp2.1\03. MaximumElement.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\bin\Debug\netcoreapp2.1\03. MaximumElement.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\obj\Debug\netcoreapp2.1\03. MaximumElement.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\obj\Debug\netcoreapp2.1\03. MaximumElement.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\obj\Debug\netcoreapp2.1\03. MaximumElement.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\obj\Debug\netcoreapp2.1\03. MaximumElement.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\03. MaximumElement\obj\Debug\netcoreapp2.1\03. MaximumElement.pdb

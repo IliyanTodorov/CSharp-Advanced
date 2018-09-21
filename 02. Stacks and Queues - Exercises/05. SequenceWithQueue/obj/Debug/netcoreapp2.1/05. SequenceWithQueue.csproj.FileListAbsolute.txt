@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\bin\Debug\netcoreapp2.1\05. SequenceWithQueue.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\bin\Debug\netcoreapp2.1\05. SequenceWithQueue.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\bin\Debug\netcoreapp2.1\05. SequenceWithQueue.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\bin\Debug\netcoreapp2.1\05. SequenceWithQueue.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\bin\Debug\netcoreapp2.1\05. SequenceWithQueue.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\obj\Debug\netcoreapp2.1\05. SequenceWithQueue.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\obj\Debug\netcoreapp2.1\05. SequenceWithQueue.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\obj\Debug\netcoreapp2.1\05. SequenceWithQueue.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\obj\Debug\netcoreapp2.1\05. SequenceWithQueue.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\obj\Debug\netcoreapp2.1\05. SequenceWithQueue.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\05. SequenceWithQueue\obj\Debug\netcoreapp2.1\05. SequenceWithQueue.csprojAssemblyReference.cache

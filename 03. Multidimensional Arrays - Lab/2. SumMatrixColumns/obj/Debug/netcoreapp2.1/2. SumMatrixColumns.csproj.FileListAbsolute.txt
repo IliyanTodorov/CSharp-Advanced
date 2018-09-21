@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\bin\Debug\netcoreapp2.1\2. SumMatrixColumns.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\bin\Debug\netcoreapp2.1\2. SumMatrixColumns.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\bin\Debug\netcoreapp2.1\2. SumMatrixColumns.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\bin\Debug\netcoreapp2.1\2. SumMatrixColumns.dll
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\bin\Debug\netcoreapp2.1\2. SumMatrixColumns.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\obj\Debug\netcoreapp2.1\2. SumMatrixColumns.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\obj\Debug\netcoreapp2.1\2. SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\obj\Debug\netcoreapp2.1\2. SumMatrixColumns.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\obj\Debug\netcoreapp2.1\2. SumMatrixColumns.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\obj\Debug\netcoreapp2.1\2. SumMatrixColumns.dll
+D:\Projects\SoftUni\CSharp-Advanced\Multidimensional Arrays - Lab\2. SumMatrixColumns\obj\Debug\netcoreapp2.1\2. SumMatrixColumns.pdb

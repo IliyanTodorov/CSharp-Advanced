@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\bin\Debug\netcoreapp2.1\04. BasicQueueOperations.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\bin\Debug\netcoreapp2.1\04. BasicQueueOperations.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\bin\Debug\netcoreapp2.1\04. BasicQueueOperations.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\bin\Debug\netcoreapp2.1\04. BasicQueueOperations.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\bin\Debug\netcoreapp2.1\04. BasicQueueOperations.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\obj\Debug\netcoreapp2.1\04. BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\obj\Debug\netcoreapp2.1\04. BasicQueueOperations.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\obj\Debug\netcoreapp2.1\04. BasicQueueOperations.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\obj\Debug\netcoreapp2.1\04. BasicQueueOperations.dll
+D:\Projects\SoftUni\CSharp-Advanced\Stacks and Queues - Exercises\04. BasicQueueOperations\obj\Debug\netcoreapp2.1\04. BasicQueueOperations.pdb
