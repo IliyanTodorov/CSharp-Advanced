@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\bin\Debug\netcoreapp2.1\05. RubiksMatrix.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\bin\Debug\netcoreapp2.1\05. RubiksMatrix.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\bin\Debug\netcoreapp2.1\05. RubiksMatrix.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\bin\Debug\netcoreapp2.1\05. RubiksMatrix.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\bin\Debug\netcoreapp2.1\05. RubiksMatrix.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\obj\Debug\netcoreapp2.1\05. RubiksMatrix.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\obj\Debug\netcoreapp2.1\05. RubiksMatrix.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\obj\Debug\netcoreapp2.1\05. RubiksMatrix.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\obj\Debug\netcoreapp2.1\05. RubiksMatrix.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\obj\Debug\netcoreapp2.1\05. RubiksMatrix.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\05. RubiksMatrix\obj\Debug\netcoreapp2.1\05. RubiksMatrix.csprojAssemblyReference.cache

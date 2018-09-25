@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\bin\Debug\netcoreapp2.1\07. LegoBlocks.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\bin\Debug\netcoreapp2.1\07. LegoBlocks.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\bin\Debug\netcoreapp2.1\07. LegoBlocks.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\bin\Debug\netcoreapp2.1\07. LegoBlocks.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\bin\Debug\netcoreapp2.1\07. LegoBlocks.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\obj\Debug\netcoreapp2.1\07. LegoBlocks.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\obj\Debug\netcoreapp2.1\07. LegoBlocks.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\obj\Debug\netcoreapp2.1\07. LegoBlocks.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\obj\Debug\netcoreapp2.1\07. LegoBlocks.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\obj\Debug\netcoreapp2.1\07. LegoBlocks.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\07. LegoBlocks\obj\Debug\netcoreapp2.1\07. LegoBlocks.pdb

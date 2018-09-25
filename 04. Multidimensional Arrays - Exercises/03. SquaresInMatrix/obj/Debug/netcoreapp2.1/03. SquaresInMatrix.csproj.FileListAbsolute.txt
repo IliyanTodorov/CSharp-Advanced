@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\bin\Debug\netcoreapp2.1\03. SquaresInMatrix.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\bin\Debug\netcoreapp2.1\03. SquaresInMatrix.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\bin\Debug\netcoreapp2.1\03. SquaresInMatrix.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\bin\Debug\netcoreapp2.1\03. SquaresInMatrix.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\bin\Debug\netcoreapp2.1\03. SquaresInMatrix.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\obj\Debug\netcoreapp2.1\03. SquaresInMatrix.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\obj\Debug\netcoreapp2.1\03. SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\obj\Debug\netcoreapp2.1\03. SquaresInMatrix.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\obj\Debug\netcoreapp2.1\03. SquaresInMatrix.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\obj\Debug\netcoreapp2.1\03. SquaresInMatrix.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\03. SquaresInMatrix\obj\Debug\netcoreapp2.1\03. SquaresInMatrix.pdb

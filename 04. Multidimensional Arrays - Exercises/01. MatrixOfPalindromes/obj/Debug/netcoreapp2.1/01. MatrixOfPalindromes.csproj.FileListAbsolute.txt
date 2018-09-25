@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\bin\Debug\netcoreapp2.1\01. MatrixOfPalindromes.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\bin\Debug\netcoreapp2.1\01. MatrixOfPalindromes.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\bin\Debug\netcoreapp2.1\01. MatrixOfPalindromes.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\bin\Debug\netcoreapp2.1\01. MatrixOfPalindromes.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\bin\Debug\netcoreapp2.1\01. MatrixOfPalindromes.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\obj\Debug\netcoreapp2.1\01. MatrixOfPalindromes.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\obj\Debug\netcoreapp2.1\01. MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\obj\Debug\netcoreapp2.1\01. MatrixOfPalindromes.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\obj\Debug\netcoreapp2.1\01. MatrixOfPalindromes.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\obj\Debug\netcoreapp2.1\01. MatrixOfPalindromes.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\01. MatrixOfPalindromes\obj\Debug\netcoreapp2.1\01. MatrixOfPalindromes.pdb

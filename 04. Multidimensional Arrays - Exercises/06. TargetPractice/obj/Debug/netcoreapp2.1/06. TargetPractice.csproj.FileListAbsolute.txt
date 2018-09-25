@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\bin\Debug\netcoreapp2.1\06. TargetPractice.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\bin\Debug\netcoreapp2.1\06. TargetPractice.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\bin\Debug\netcoreapp2.1\06. TargetPractice.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\bin\Debug\netcoreapp2.1\06. TargetPractice.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\bin\Debug\netcoreapp2.1\06. TargetPractice.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\obj\Debug\netcoreapp2.1\06. TargetPractice.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\obj\Debug\netcoreapp2.1\06. TargetPractice.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\obj\Debug\netcoreapp2.1\06. TargetPractice.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\obj\Debug\netcoreapp2.1\06. TargetPractice.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\obj\Debug\netcoreapp2.1\06. TargetPractice.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\06. TargetPractice\obj\Debug\netcoreapp2.1\06. TargetPractice.pdb

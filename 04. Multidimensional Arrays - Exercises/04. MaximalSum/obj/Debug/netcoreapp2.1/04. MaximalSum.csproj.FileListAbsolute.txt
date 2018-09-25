@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\bin\Debug\netcoreapp2.1\04. MaximalSum.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\bin\Debug\netcoreapp2.1\04. MaximalSum.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\bin\Debug\netcoreapp2.1\04. MaximalSum.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\bin\Debug\netcoreapp2.1\04. MaximalSum.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\bin\Debug\netcoreapp2.1\04. MaximalSum.pdb
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\obj\Debug\netcoreapp2.1\04. MaximalSum.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\obj\Debug\netcoreapp2.1\04. MaximalSum.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\obj\Debug\netcoreapp2.1\04. MaximalSum.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\obj\Debug\netcoreapp2.1\04. MaximalSum.dll
+D:\Projects\SoftUni\CSharp-Advanced\04. Multidimensional Arrays - Exercises\04. MaximalSum\obj\Debug\netcoreapp2.1\04. MaximalSum.pdb
