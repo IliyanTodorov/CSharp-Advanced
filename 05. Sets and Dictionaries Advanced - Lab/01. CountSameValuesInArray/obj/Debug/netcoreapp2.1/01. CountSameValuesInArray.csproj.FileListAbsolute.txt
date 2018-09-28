@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp2.1\01. CountSameValuesInArray.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp2.1\01. CountSameValuesInArray.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp2.1\01. CountSameValuesInArray.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp2.1\01. CountSameValuesInArray.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp2.1\01. CountSameValuesInArray.pdb
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp2.1\01. CountSameValuesInArray.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp2.1\01. CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp2.1\01. CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp2.1\01. CountSameValuesInArray.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp2.1\01. CountSameValuesInArray.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp2.1\01. CountSameValuesInArray.pdb

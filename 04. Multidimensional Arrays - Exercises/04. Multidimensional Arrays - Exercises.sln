@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. RubiksMatrix", "05. Rub
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. TargetPractice", "06. TargetPractice\06. TargetPractice.csproj", "{8A6221AC-B2AB-4068-A986-A61BAC0089F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. LegoBlocks", "07. LegoBlocks\07. LegoBlocks.csproj", "{8FA18E41-2DBC-4D7C-B78E-64B7822F3ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. LegoBlocks", "07. LegoBlocks\07. LegoBlocks.csproj", "{8FA18E41-2DBC-4D7C-B78E-64B7822F3ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. RadioactiveBunnies", "08. RadioactiveBunnies\08. RadioactiveBunnies.csproj", "{11ACEE1E-4168-4E80-89A0-C79FCD9A1E10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8FA18E41-2DBC-4D7C-B78E-64B7822F3ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FA18E41-2DBC-4D7C-B78E-64B7822F3ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA18E41-2DBC-4D7C-B78E-64B7822F3ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ACEE1E-4168-4E80-89A0-C79FCD9A1E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ACEE1E-4168-4E80-89A0-C79FCD9A1E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ACEE1E-4168-4E80-89A0-C79FCD9A1E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ACEE1E-4168-4E80-89A0-C79FCD9A1E10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

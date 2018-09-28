@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\bin\Debug\netcoreapp2.1\03. ProductShop.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\bin\Debug\netcoreapp2.1\03. ProductShop.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\bin\Debug\netcoreapp2.1\03. ProductShop.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\bin\Debug\netcoreapp2.1\03. ProductShop.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\bin\Debug\netcoreapp2.1\03. ProductShop.pdb
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\obj\Debug\netcoreapp2.1\03. ProductShop.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\obj\Debug\netcoreapp2.1\03. ProductShop.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\obj\Debug\netcoreapp2.1\03. ProductShop.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\obj\Debug\netcoreapp2.1\03. ProductShop.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\obj\Debug\netcoreapp2.1\03. ProductShop.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\03. ProductShop\obj\Debug\netcoreapp2.1\03. ProductShop.pdb

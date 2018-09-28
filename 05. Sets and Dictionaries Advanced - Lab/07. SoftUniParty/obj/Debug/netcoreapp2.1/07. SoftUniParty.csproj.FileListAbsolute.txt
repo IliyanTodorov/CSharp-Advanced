@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\bin\Debug\netcoreapp2.1\07. SoftUniParty.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\bin\Debug\netcoreapp2.1\07. SoftUniParty.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\bin\Debug\netcoreapp2.1\07. SoftUniParty.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\bin\Debug\netcoreapp2.1\07. SoftUniParty.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\bin\Debug\netcoreapp2.1\07. SoftUniParty.pdb
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\obj\Debug\netcoreapp2.1\07. SoftUniParty.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\obj\Debug\netcoreapp2.1\07. SoftUniParty.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\obj\Debug\netcoreapp2.1\07. SoftUniParty.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\obj\Debug\netcoreapp2.1\07. SoftUniParty.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\07. SoftUniParty\obj\Debug\netcoreapp2.1\07. SoftUniParty.pdb

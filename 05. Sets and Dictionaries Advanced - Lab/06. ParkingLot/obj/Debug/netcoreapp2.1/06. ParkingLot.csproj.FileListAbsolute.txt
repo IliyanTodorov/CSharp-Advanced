@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\bin\Debug\netcoreapp2.1\06. ParkingLot.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\bin\Debug\netcoreapp2.1\06. ParkingLot.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\bin\Debug\netcoreapp2.1\06. ParkingLot.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\bin\Debug\netcoreapp2.1\06. ParkingLot.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\bin\Debug\netcoreapp2.1\06. ParkingLot.pdb
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\obj\Debug\netcoreapp2.1\06. ParkingLot.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\obj\Debug\netcoreapp2.1\06. ParkingLot.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\obj\Debug\netcoreapp2.1\06. ParkingLot.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\obj\Debug\netcoreapp2.1\06. ParkingLot.dll
+D:\Projects\SoftUni\CSharp-Advanced\05. Sets and Dictionaries Advanced - Lab\06. ParkingLot\obj\Debug\netcoreapp2.1\06. ParkingLot.pdb
