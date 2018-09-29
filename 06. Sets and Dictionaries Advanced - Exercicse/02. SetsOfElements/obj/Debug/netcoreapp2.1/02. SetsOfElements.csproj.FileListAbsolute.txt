@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\bin\Debug\netcoreapp2.1\02. SetsOfElements.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\bin\Debug\netcoreapp2.1\02. SetsOfElements.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\bin\Debug\netcoreapp2.1\02. SetsOfElements.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\bin\Debug\netcoreapp2.1\02. SetsOfElements.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\bin\Debug\netcoreapp2.1\02. SetsOfElements.pdb
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\obj\Debug\netcoreapp2.1\02. SetsOfElements.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\obj\Debug\netcoreapp2.1\02. SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\obj\Debug\netcoreapp2.1\02. SetsOfElements.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\obj\Debug\netcoreapp2.1\02. SetsOfElements.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\obj\Debug\netcoreapp2.1\02. SetsOfElements.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\02. SetsOfElements\obj\Debug\netcoreapp2.1\02. SetsOfElements.pdb

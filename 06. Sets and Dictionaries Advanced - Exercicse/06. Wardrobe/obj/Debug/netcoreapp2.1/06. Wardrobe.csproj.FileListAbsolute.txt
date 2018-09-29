@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.pdb
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.pdb

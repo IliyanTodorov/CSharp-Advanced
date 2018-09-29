@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\bin\Debug\netcoreapp2.1\05. CountSymbols.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\bin\Debug\netcoreapp2.1\05. CountSymbols.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\bin\Debug\netcoreapp2.1\05. CountSymbols.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\bin\Debug\netcoreapp2.1\05. CountSymbols.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\bin\Debug\netcoreapp2.1\05. CountSymbols.pdb
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\obj\Debug\netcoreapp2.1\05. CountSymbols.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\obj\Debug\netcoreapp2.1\05. CountSymbols.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\obj\Debug\netcoreapp2.1\05. CountSymbols.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\obj\Debug\netcoreapp2.1\05. CountSymbols.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\05. CountSymbols\obj\Debug\netcoreapp2.1\05. CountSymbols.pdb

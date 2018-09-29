@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\bin\Debug\netcoreapp2.1\01. UniqueUsernames.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\bin\Debug\netcoreapp2.1\01. UniqueUsernames.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\bin\Debug\netcoreapp2.1\01. UniqueUsernames.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\bin\Debug\netcoreapp2.1\01. UniqueUsernames.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\bin\Debug\netcoreapp2.1\01. UniqueUsernames.pdb
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\obj\Debug\netcoreapp2.1\01. UniqueUsernames.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\obj\Debug\netcoreapp2.1\01. UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\obj\Debug\netcoreapp2.1\01. UniqueUsernames.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\obj\Debug\netcoreapp2.1\01. UniqueUsernames.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\obj\Debug\netcoreapp2.1\01. UniqueUsernames.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\01. UniqueUsernames\obj\Debug\netcoreapp2.1\01. UniqueUsernames.pdb
