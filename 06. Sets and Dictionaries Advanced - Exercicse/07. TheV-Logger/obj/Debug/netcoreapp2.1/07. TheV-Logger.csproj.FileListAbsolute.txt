@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\bin\Debug\netcoreapp2.1\07. TheV-Logger.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\bin\Debug\netcoreapp2.1\07. TheV-Logger.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\bin\Debug\netcoreapp2.1\07. TheV-Logger.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\bin\Debug\netcoreapp2.1\07. TheV-Logger.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\bin\Debug\netcoreapp2.1\07. TheV-Logger.pdb
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\obj\Debug\netcoreapp2.1\07. TheV-Logger.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\obj\Debug\netcoreapp2.1\07. TheV-Logger.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\obj\Debug\netcoreapp2.1\07. TheV-Logger.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\obj\Debug\netcoreapp2.1\07. TheV-Logger.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\obj\Debug\netcoreapp2.1\07. TheV-Logger.dll
+D:\Projects\SoftUni\CSharp-Advanced\06. Sets and Dictionaries Advanced - Exercicse\07. TheV-Logger\obj\Debug\netcoreapp2.1\07. TheV-Logger.pdb
