@@ -1,0 +1,34 @@
+Line 1: ;metsyS gnisu
+Line 2: ;OI.metsyS gnisu
+Line 3: ;qniL.metsyS gnisu
+Line 4: 
+Line 5: eliFoTetirW_.20_ ecapseman
+Line 6: {
+Line 7: margorP ssalc    
+Line 8: {    
+Line 9: )(niaM diov citats        
+Line 10: {        
+Line 11: ;"/../../.." = htap gnirts            
+Line 12: ;"sc.margorP" = emaNeliFtupni gnirts            
+Line 13: ;"txt.desrever/../../.." = emaNeliFtuptuo gnirts            
+Line 14: 
+Line 15: ;)emaNeliFtupni ,htap(enibmoC.htaP = htap            
+Line 16: 
+Line 17: ))htap(redaeRmaertS wen = redaer redaeRmaertS( gnisu            
+Line 18: {            
+Line 19: ))emaNeliFtuptuo(retirWmaertS wen = retirw retirWmaertS( gnisu                
+Line 20: {                
+Line 21: ;)(eniLdaeR.redaer = enil gnirts                    
+Line 22: ;1 = rebmuNenil tni                    
+Line 23:                 
+Line 24: )llun =! enil( elihw                    
+Line 25: {                    
+Line 26: ;)"}))(esreveR.enil ,""(nioJ.gnirts{ :}++rebmuNenil{ eniL"$(eniLetirW.retirw                        
+Line 27: 
+Line 28: ;)(eniLdaeR.redaer = enil                        
+Line 29: }                    
+Line 30: }                
+Line 31: }            
+Line 32: }        
+Line 33: }    
+Line 34: }

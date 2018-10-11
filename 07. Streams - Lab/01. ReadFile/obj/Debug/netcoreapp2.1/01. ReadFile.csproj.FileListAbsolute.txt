@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\bin\Debug\netcoreapp2.1\01. ReadFile.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\bin\Debug\netcoreapp2.1\01. ReadFile.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\bin\Debug\netcoreapp2.1\01. ReadFile.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\bin\Debug\netcoreapp2.1\01. ReadFile.dll
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\bin\Debug\netcoreapp2.1\01. ReadFile.pdb
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\obj\Debug\netcoreapp2.1\01. ReadFile.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\obj\Debug\netcoreapp2.1\01. ReadFile.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\obj\Debug\netcoreapp2.1\01. ReadFile.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\obj\Debug\netcoreapp2.1\01. ReadFile.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\obj\Debug\netcoreapp2.1\01. ReadFile.dll
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\01. ReadFile\obj\Debug\netcoreapp2.1\01. ReadFile.pdb

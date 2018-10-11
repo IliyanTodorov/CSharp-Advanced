@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\bin\Debug\netcoreapp2.1\02. WriteToFile.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\bin\Debug\netcoreapp2.1\02. WriteToFile.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\bin\Debug\netcoreapp2.1\02. WriteToFile.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\bin\Debug\netcoreapp2.1\02. WriteToFile.dll
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\bin\Debug\netcoreapp2.1\02. WriteToFile.pdb
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\obj\Debug\netcoreapp2.1\02. WriteToFile.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\obj\Debug\netcoreapp2.1\02. WriteToFile.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\obj\Debug\netcoreapp2.1\02. WriteToFile.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\obj\Debug\netcoreapp2.1\02. WriteToFile.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\obj\Debug\netcoreapp2.1\02. WriteToFile.dll
+D:\Projects\SoftUni\CSharp-Advanced\07. Streams - Lab\02. WriteToFile\obj\Debug\netcoreapp2.1\02. WriteToFile.pdb

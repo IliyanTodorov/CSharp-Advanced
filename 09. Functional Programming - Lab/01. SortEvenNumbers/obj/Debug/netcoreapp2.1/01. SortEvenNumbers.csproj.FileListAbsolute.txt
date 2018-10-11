@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp2.1\01. SortEvenNumbers.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp2.1\01. SortEvenNumbers.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp2.1\01. SortEvenNumbers.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp2.1\01. SortEvenNumbers.dll
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp2.1\01. SortEvenNumbers.pdb
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp2.1\01. SortEvenNumbers.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp2.1\01. SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp2.1\01. SortEvenNumbers.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp2.1\01. SortEvenNumbers.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp2.1\01. SortEvenNumbers.dll
+D:\Projects\SoftUni\CSharp-Advanced\09. Functional Programming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp2.1\01. SortEvenNumbers.pdb
