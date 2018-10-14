@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\bin\Debug\netcoreapp2.1\04. MovieTime.deps.json
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\bin\Debug\netcoreapp2.1\04. MovieTime.runtimeconfig.json
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\bin\Debug\netcoreapp2.1\04. MovieTime.runtimeconfig.dev.json
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\bin\Debug\netcoreapp2.1\04. MovieTime.dll
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\bin\Debug\netcoreapp2.1\04. MovieTime.pdb
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\obj\Debug\netcoreapp2.1\04. MovieTime.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\obj\Debug\netcoreapp2.1\04. MovieTime.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\obj\Debug\netcoreapp2.1\04. MovieTime.AssemblyInfo.cs
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\obj\Debug\netcoreapp2.1\04. MovieTime.dll
+D:\Projects\SoftUni\Exams\Retake Exam - 24 April 2018\04. MovieTime\obj\Debug\netcoreapp2.1\04. MovieTime.pdb

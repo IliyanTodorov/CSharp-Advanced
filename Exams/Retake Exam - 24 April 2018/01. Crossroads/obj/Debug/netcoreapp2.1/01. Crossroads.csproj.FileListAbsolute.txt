@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\bin\Debug\netcoreapp2.1\01. Crossroads.deps.json
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\bin\Debug\netcoreapp2.1\01. Crossroads.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\bin\Debug\netcoreapp2.1\01. Crossroads.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\bin\Debug\netcoreapp2.1\01. Crossroads.dll
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\bin\Debug\netcoreapp2.1\01. Crossroads.pdb
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\obj\Debug\netcoreapp2.1\01. Crossroads.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\obj\Debug\netcoreapp2.1\01. Crossroads.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\obj\Debug\netcoreapp2.1\01. Crossroads.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\obj\Debug\netcoreapp2.1\01. Crossroads.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\obj\Debug\netcoreapp2.1\01. Crossroads.dll
+D:\Projects\SoftUni\CSharp-Advanced\Exams\Retake Exam - 24 April 2018\01. Crossroads\obj\Debug\netcoreapp2.1\01. Crossroads.pdb

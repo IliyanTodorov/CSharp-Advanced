@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.deps.json
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.runtimeconfig.json
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.runtimeconfig.dev.json
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.dll
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.pdb
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.csprojAssemblyReference.cache
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.AssemblyInfo.cs
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.dll
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-11February2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.pdb

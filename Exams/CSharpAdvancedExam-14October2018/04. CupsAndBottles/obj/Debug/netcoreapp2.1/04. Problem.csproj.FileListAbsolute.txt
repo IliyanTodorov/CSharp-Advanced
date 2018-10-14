@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\bin\Debug\netcoreapp2.1\04. Problem.deps.json
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\bin\Debug\netcoreapp2.1\04. Problem.runtimeconfig.json
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\bin\Debug\netcoreapp2.1\04. Problem.runtimeconfig.dev.json
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\bin\Debug\netcoreapp2.1\04. Problem.dll
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\bin\Debug\netcoreapp2.1\04. Problem.pdb
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\obj\Debug\netcoreapp2.1\04. Problem.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\obj\Debug\netcoreapp2.1\04. Problem.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\obj\Debug\netcoreapp2.1\04. Problem.AssemblyInfo.cs
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\obj\Debug\netcoreapp2.1\04. Problem.dll
+D:\Projects\SoftUni\Exams\MyExam\04. Problem\obj\Debug\netcoreapp2.1\04. Problem.pdb

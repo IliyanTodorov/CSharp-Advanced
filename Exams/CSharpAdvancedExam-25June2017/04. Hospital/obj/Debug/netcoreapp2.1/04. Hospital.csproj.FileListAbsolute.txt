@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.deps.json
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.runtimeconfig.json
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.runtimeconfig.dev.json
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.dll
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.pdb
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.csprojAssemblyReference.cache
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.AssemblyInfo.cs
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.dll
+D:\Projects\SoftUni\Exams\CSharpAdvancedExam-25June2017\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.pdb
